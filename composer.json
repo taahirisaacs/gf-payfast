@@ -1,0 +1,10 @@
+{
+    "name": "taahirisaacs/gf-payfast",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/taahirisaacs/gf-payfast",
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.1"
+    }
+}
